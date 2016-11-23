@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg_windows.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg_windows.jpg"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg_status.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg_status.jpg"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg_old.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg_old.jpg"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg_radio.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg_radio.jpg"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\default_bg_ibus.jpg",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\default_bg_ibus.jpg"
+    }
+]

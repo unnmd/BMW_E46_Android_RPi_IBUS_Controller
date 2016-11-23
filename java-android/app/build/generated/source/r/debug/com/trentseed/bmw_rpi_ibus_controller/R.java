@@ -88,24 +88,24 @@ public final class R {
         public static final int activity_main=0x7f080000;
     }
     public static final class string {
-        public static final int action_settings=0x7f060000;
-        public static final int app_description=0x7f060001;
-        public static final int app_name=0x7f060002;
-        public static final int hello_world=0x7f060003;
+        public static final int action_settings=0x7f070000;
+        public static final int app_description=0x7f070001;
+        public static final int app_name=0x7f070002;
+        public static final int hello_world=0x7f070003;
     }
     public static final class style {
-        /** 
+        /**  API 11 theme customizations can go here. 
+ API 14 theme customizations can go here. 
+
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- API 11 theme customizations can go here. 
- API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
+        public static final int AppBaseTheme=0x7f060000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f070001;
+        public static final int AppTheme=0x7f060001;
     }
     public static final class xml {
         public static final int accessory_filter=0x7f040000;

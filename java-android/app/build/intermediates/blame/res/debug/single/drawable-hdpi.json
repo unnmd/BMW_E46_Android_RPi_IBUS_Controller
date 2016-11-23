@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rpi_logo.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\rpi_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\packet.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\packet.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bus_activity.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\bus_activity.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_back.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bmw_emblem.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\bmw_emblem.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dash_icon.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\dash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bmw_emblem_pressed.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\bmw_emblem_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\arrow_back_pressed.png",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\drawable-hdpi\\arrow_back_pressed.png"
+    }
+]

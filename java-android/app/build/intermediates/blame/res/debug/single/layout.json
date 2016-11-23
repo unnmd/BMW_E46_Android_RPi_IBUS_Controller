@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_status.xml",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_radio.xml",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\layout\\activity_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_windows.xml",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\layout\\activity_windows.xml"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ibus.xml",
+        "source": "C:\\Users\\unnmd\\BMW_E46_Android_RPi_IBUS_Controller\\java-android\\app\\src\\main\\res\\layout\\activity_ibus.xml"
+    }
+]

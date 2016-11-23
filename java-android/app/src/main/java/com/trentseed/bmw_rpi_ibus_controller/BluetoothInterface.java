@@ -30,7 +30,7 @@ public class BluetoothInterface {
 	public static OutputStream mBluetoothOutputStream;
 	public static UUID serviceUUID = UUID.fromString("94f39d29-7d6d-437d-973b-fba39e49d4ee");
 	//public static String remoteBluetoothAddress = "5C:AC:4C:C8:E2:7E";  //ThinkPad-T410
-	public static String remoteBluetoothAddress = "00:02:72:CC:EF:3C";  //Asus USB-BT400
+	public static String remoteBluetoothAddress = "B8:27:EB:D6:EA:8B";  //Asus USB-BT400
 	public static ConnectedThread listenThread;
     public static Boolean isConnecting = false;
 	
